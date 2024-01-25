@@ -1,0 +1,42 @@
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\Database C sharp.exe.config
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\Database C sharp.exe
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\Database C sharp.pdb
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\BouncyCastle.Cryptography.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\Google.Protobuf.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\K4os.Compression.LZ4.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\K4os.Hash.xxHash.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\MySql.Data.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Buffers.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.IO.Pipelines.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Memory.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Numerics.Vectors.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\ZstdSharp.dll
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\BouncyCastle.Cryptography.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\Google.Protobuf.pdb
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\Google.Protobuf.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\K4os.Compression.LZ4.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\K4os.Hash.xxHash.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\MySql.Data.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Buffers.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.IO.Pipelines.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Memory.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Numerics.Vectors.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Clients\Database C sharp\Database C sharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Clients\Database C sharp\Database C sharp\obj\Debug\Database C sharp.csproj.AssemblyReference.cache
+H:\Clients\Database C sharp\Database C sharp\obj\Debug\Database_C_sharp.Form1.resources
+H:\Clients\Database C sharp\Database C sharp\obj\Debug\Database_C_sharp.Properties.Resources.resources
+H:\Clients\Database C sharp\Database C sharp\obj\Debug\Database C sharp.csproj.GenerateResource.cache
+H:\Clients\Database C sharp\Database C sharp\obj\Debug\Database C sharp.csproj.CoreCompileInputs.cache
+H:\Clients\Database C sharp\Database C sharp\obj\Debug\Database C sharp.csproj.CopyComplete
+H:\Clients\Database C sharp\Database C sharp\obj\Debug\Database C sharp.exe
+H:\Clients\Database C sharp\Database C sharp\obj\Debug\Database C sharp.pdb
